@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IqraAsghar445
 - 👀 I’m interested in Codding,Pogmraming
-- 🌱 I’m currently learning Mobile & Wen development
+- 🌱 I’m currently learning Mobile & Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me iqraasghar022@gmail.com
 - 😄 Pronouns: ...
